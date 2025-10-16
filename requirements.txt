@@ -1,0 +1,5 @@
+streamlit
+janome
+scikit-learn
+pandas
+datetime
